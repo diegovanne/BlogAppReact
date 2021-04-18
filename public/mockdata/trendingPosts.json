@@ -1,0 +1,42 @@
+[
+    {
+        "id": 5,
+        "title": "Main() and command-line arguments (C# Programming Guide)",
+        "date_release": "08/03/2021",
+        "mins_read": 2,
+        "author": "Bill Wagner",
+        "thumbnail": "/assets/img/blog5.jpg",
+        "category": "C# programming guide",
+        "content": "The Main method is the entry point of a C# application. (Libraries and services do not require a Main method as an entry point.) When the application is started, the Main method is the first method that is invoked. There can only be one entry point in a C# program. If you have more than one class that has a Main method, you must compile your program with the StartupObject compiler option to specify which Main method to use as the entry point. For more information, see StartupObject (C# Compiler Options)."
+    },
+    {
+        "id": 6,
+        "title": "Series Tôn Tử 36 kế – Bài I: Man thiên quá hải.",
+        "date_release": "04/07/2021",
+        "mins_read": 8,
+        "author": "Mr. Pill",
+        "thumbnail": "/assets/img/blog6.jpg",
+        "category": "Series Tôn Tử 36 kế của Phụ Nữ",
+        "content": "Tức “Giấu trời qua biển”. Bạn còn nhớ về điển cố “thuyền cỏ mượn tên” của Gia Cát Lượng chứ? Nó đấy. Ông ta lợi dụng trời tối và sương mù, dùng hàng loạt thuyền cỏ để “mượn” tên của Tào Tháo trong trận Xích Bích. Ứng dụng “Man thiên quá hải” trong thực tế rất nhiều. Người ta lợi dụng ngoại cảnh (hay thiên thời) mờ mịt (trong ví dụ là thời tiết, hay trời tối…) để trục lợi, thực hiện mục tiêu vạch sẵn.Thiên thời không được như ý muốn? Người ta… tạo ra thiên thời.Trong lịch sử chiến tranh đã không ít lần người ta áp dụng kế này. Họ đốt rừng phóng hỏa, ngăn sông điều thủy, đầu độc nguồn nước… Năm ấy Trương Phi tại cầu Trường Bản chỉ có một nhúm quân ít ỏi, buộc cành cây vào đuôi ngựa tạo ảo ảnh “thiên binh vạn mã”, đánh lừa Tào Tháo.Mấy bro nghĩ đàn bà họ tiêu cả đống tiền vào quần áo mỹ phẩm, bỏ cả tấn thời gian vào make up để làm cái gì? Chẳng phải để CHE ĐI CÁI NHAN SẮC THỰC SỰ của họ hay sao? Giấu đi những khuyết điểm, “phóng đại” nhan sắc lên, nhằm maximum vị thế của họ trên thị trường tình dục.Với sự trợ giúp của công nghệ thẩm mỹ, mỹ phẩm, rồi App chỉnh sửa ảnh ngày nay, một em nhan sắc trung bình (điểm 4), cũng hoàn toàn có thể đưa mình lên đứng ngang hàng với một kẻ đàn ông điểm 8 trên thang bậc xã hội. Quá khứ tôi từng bị “chăn” bởi nhiều em như thế này. Ấn tượng ban đầu về em ấy bao giờ cũng đẹp lung linh, kiêu sa, đài các. Chỉ cho đến khi vào nhà nghỉ. Cho đến khi em lột lớp make up ra mới hết hồn chim én."
+    },
+    {
+        "id": 7,
+        "title": "“Game of Thrones”- Ấn phẩm đồi trụy dành cho dạng đàn ông ẻo lả Beta.",
+        "date_release": "11/16/2020",
+        "mins_read": 11,
+        "author": "Mr. Pill",
+        "thumbnail": "/assets/img/blog7.jpg",
+        "category": "Giải độc truyền thông bẩn.",
+        "content": "“Game of Thrones” – Hay còn gọi là “Trò chơi vương quyền” – Nhìn sơ qua thì nó là series phim truyền hình thể loại đa dạng: chiến tranh và máu, về lòng trung thành, các đại gia tộc và sự phản bộiNó chứa hầu như toàn bộ các yếu tố ăn khách phim truyền hình thời gian gần đây: siêu nhân, rồng, zombie, chiến binh bất tử, những cuộc chiến bi tráng, nhưng mưu mô thủ đoạn v..vv…Nhưng nhìn sâu hơn một chút, bạn sẽ dễ dàng nhận ra hàng loạt nội dung độc hại nó truyền tải đằng sau. Game of Thrones – một thế giới của những “alpha woman”, nhóm phụ nữ mang đầy phẩm chất ưu tú đang phải “chịu đựng” một nửa thế giới bao gồm những gã beta mang đầy nhược điểm: yếu đuối, ẻo lả, bám đuôi, biến thái và điên rồ.Những người phụ nữ nơi đây sở hữu mọi nguồn lực để thống trị 7 vương quốc (Seven Kingdoms) tách ra từ ngai sắt. Tụi đàn ông, ngược lại, được xem như một đám thảm hại. Đây là một sự đảo ngược vai trò trắng trợn nếu đem so sánh với bối cảnh xã hội trung cổ xưa kia (nơi được xem như là bối cảnh phim), cái thời mà phụ nữ còn đương hái lượm, nấu nướng, nuôi dưỡng những đứa trẻ, trong khi tụi đàn ông ra ngoài săn bắn, chiến đấu và cai trị."
+    },
+    {
+        "id": 8,
+        "title": "Phụ nữ cần Đàn Ông hơn là Đàn Ông cần Phụ Nữ",
+        "date_release": "06/16/2020",
+        "mins_read": 3,
+        "author": "Mr. Pill",
+        "thumbnail": "/assets/img/blog8.jpg",
+        "category": "Redpill",
+        "content": "Cái này xuất phát từ góc nhìn tiến hóa. Từ lịch sử loài người, người ta thống kê được chỉ có khoảng 40% Đàn Ông được truyền lại gene cho thế hệ sau mà thôi.Tức là 60% Đàn Ông còn lại, chết đi mà không có con cái hoặc gia đình. Có người chết do bệnh tật, do chiến trận, do lao lực khi tham gia xây dựng những hoài bão xa xôiRất nhiều gã tài hoa trong lịch sử đã bỏ mạng nơi chiến trận, rừng thiêng, biển khơi, hay trong những hầm mỏ chết tiệt nào đó. Không có gia đình."
+    }
+]

@@ -23,6 +23,7 @@ const Header = () => {
 
     const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
     const currentTheme = localStorage.getItem('theme');
+
     if (currentTheme) {
         document.documentElement.setAttribute('data-theme', currentTheme);
 
@@ -30,6 +31,7 @@ const Header = () => {
             toggleSwitch.checked = true;
         }
     }
+
     function switchTheme(e) {
         if (e.target.checked) {
             document.documentElement.setAttribute('data-theme', 'dark');
@@ -40,8 +42,6 @@ const Header = () => {
             localStorage.setItem('theme', 'light');
         }
     }
-
-    toggleSwitch.addEventListener('change', switchTheme, false);
 
     return (
         <header className="w3l-header">
@@ -69,13 +69,11 @@ const Header = () => {
                             </li>
                         </ul>
                         <div className="header-author d-flex ml-lg-4 pl-2 mt-lg-0 mt-3">
-                            <a className="img-circle img-circle-sm" href="author.html">
+                            <NavLink to="/author" className="img-circle img-circle-sm">
                                 <img src={data && data.avartar} className="img-fluid" alt="..." />
-                            </a>
+                            </NavLink>
                             <div className="align-self ml-3">
-                                <a href="author.html">
-                                    <h5>{data && data.name}</h5>
-                                </a>
+                                <NavLink to="/author"><h5>{data && data.name}</h5></NavLink>
                                 <span>{data && data.role}</span>
                             </div>
                         </div>
@@ -84,7 +82,7 @@ const Header = () => {
                         <nav className="navigation">
                             <div className="theme-switch-wrapper">
                                 <label className="theme-switch" htmlFor="checkbox">
-                                    <input type="checkbox" id="checkbox" />
+                                    <input onClick={switchTheme} type="checkbox" id="checkbox" />
                                     <div className="mode-container">
                                         <i className="gg-sun" />
                                         <i className="gg-moon" />
@@ -95,7 +93,6 @@ const Header = () => {
                     </div>
                 </div>
             </nav>
-            {/*//nav*/}
         </header>
     );
 };

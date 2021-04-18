@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Explore object oriented programming with classes and objects",
+        "date_release": "11/10/2017",
+        "mins_read": 9,
+        "author": "Bill Wagner",
+        "thumbnail": "/assets/img/blog1.jpg",
+        "category": "C# tutorials",
+        "content": "In this tutorial, you'll build a console application and see the basic object-oriented features that are part of the C# language."
+    },
+    {
+        "id": 2,
+        "title": "How to separate strings using String.Split in C#",
+        "date_release": "03/01/2018",
+        "mins_read": 2,
+        "author": "Bill Wagner",
+        "thumbnail": "/assets/img/blog2.jpg",
+        "category": "C# How to",
+        "content": "The C# examples in this article run in the Try.NET inline code runner and playground. Select the Run button to run an example in an interactive window. Once you execute the code, you can modify it and run the modified code by selecting Run again. The modified code either runs in the interactive window or, if compilation fails, the interactive window displays all C# compiler error messages."
+    },
+    {
+        "id": 3,
+        "title": "C# programming guide",
+        "date_release": "02/05/2017",
+        "mins_read": 2,
+        "author": "Bill Wagner",
+        "thumbnail": "/assets/img/blog3.jpg",
+        "category": "C# programming guide",
+        "content": "Most of this section assumes that you already know something about C# and general programming concepts. If you are a complete beginner with programming or with C#, you might want to visit the Introduction to C# Tutorials or .NET In-Browser Tutorial, where no prior programming knowledge is required."
+    },
+    {
+        "id": 4,
+        "title": "Handling Events",
+        "date_release": "02/03/2018",
+        "mins_read": 2,
+        "author": "React Admin",
+        "thumbnail": "/assets/img/blog4.jpg",
+        "category": "React main concepts",
+        "content": "Here, e is a synthetic event. React defines these synthetic events according to the W3C spec, so you don’t need to worry about cross-browser compatibility. React events do not work exactly the same as native events. See the SyntheticEvent reference guide to learn more. When using React, you generally don’t need to call addEventListener to add listeners to a DOM element after it is created. Instead, just provide a listener when the element is initially rendered. When you define a component using an ES6 class, a common pattern is for an event handler to be a method on the class. For example, this Toggle component renders a button that lets the user toggle between “ON” and “OFF” states:"
+    }
+]
